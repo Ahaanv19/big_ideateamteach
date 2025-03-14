@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LitConnect
+title: Legal Ethical Concers
 search_exclude: true
 hide: true
 menu: nav/home.html
