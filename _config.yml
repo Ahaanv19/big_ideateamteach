@@ -1,9 +1,9 @@
-title: LitConnect
-description: "Social Media for Del Norte High School"
+title: Legal and Ethical Team Teach
+description: "Team Teach"
 owner_name: Ahaan Vaidyanathan
 github_username: Ahaanv19
-github_repo: "LitConnect" 
-baseurl: "/LitConnect"
+github_repo: "big_ideateamteach" 
+baseurl: "/big_ideateamteach"
 future: true
 remote_theme: jekyll/minima
 minima:
